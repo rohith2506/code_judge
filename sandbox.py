@@ -1,4 +1,5 @@
 import os
+import pdb
 import sys
 
 TIME_LIMIT = 3.00
@@ -73,8 +74,8 @@ def execute_code_for_compiled_progs(prog_folder, prog_lang, prog_file, input_fil
             status = False
             return (error_string, status)
         else:
-            sandbox_command =  "./sandbox ./" + executable + " --input=" + input_file + \
-                               " --output=" + output_file + " --time=" + TIME_LIMIT + \
+            sandbox_command =  "./" + prog_folder + "/sandbox ./" + executable + " --input=" + \
+                                input_file + " --output=" + output_file + " --time=" + str(TIME_LIMIT) + \
                                 "chroot=" + prog_folder + " > " + error_file + " 2>&1"
             os.system(sandbox_command)
     else:
@@ -85,9 +86,9 @@ def execute_code_for_compiled_progs(prog_folder, prog_lang, prog_file, input_fil
             status = False
             return (error_string, status)
         else:
-            sandbox_command =  "./sandbox ./" + executable + " --input=" + input_file + \
-                               " --output=" + output_file + " --time=" + TIME_LIMIT + \
-                               " --chroot=" + prog_folder + " > " + error_file + " 2>&1"
+            sandbox_command =  "./" + prog_folder + "/sandbox ./" + executable + " --input=" + \
+                               input_file + " --output=" + output_file + " --time=" + str(TIME_LIMIT) + \
+                               "chroot=" + prog_folder + " > " + error_file + " 2>&1"
             os.system(sandbox_command)
 
     error_string = open(error_file, "r").read()
@@ -97,7 +98,7 @@ def execute_code_for_compiled_progs(prog_folder, prog_lang, prog_file, input_fil
     else:
         status = True
         result = None
-    return (results, status)
+    return (result, status)
         
 
 def get_required_output(prog_id, prog_lang, code, prog_input):

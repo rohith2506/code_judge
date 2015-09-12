@@ -54,6 +54,8 @@ class Processor:
         self.update_into_mongo(prog_id, prog_lang, self.STATUS_RUNNING)
         # run the program in sanbox mode
         result, status = get_required_output(prog_id, prog_lang, code, inp)
+        print prog_id
+        print result    
         # update the doc in mongodb
         if status:
             self.update_into_mongo(prog_id, prog_lang, self.STATUS_SUCCESS)
