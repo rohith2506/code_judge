@@ -1,0 +1,11 @@
+progs/cpp/32da95a0-76e6-458b-aa4a-c62171456783/prog.cpp:5:14: warning: missing terminating " character [enabled by default]
+      cout << ";
+              ^
+progs/cpp/32da95a0-76e6-458b-aa4a-c62171456783/prog.cpp:5:6: error: missing terminating " character
+      cout << ";
+      ^
+progs/cpp/32da95a0-76e6-458b-aa4a-c62171456783/prog.cpp: In function ‘int main()’:
+progs/cpp/32da95a0-76e6-458b-aa4a-c62171456783/prog.cpp:6:6: error: expected primary-expression before ‘return’
+      return 0;
+      ^
+progs/cpp/32da95a0-76e6-458b-aa4a-c62171456783/prog.cpp:6:6: error: expected ‘;’ before ‘return’

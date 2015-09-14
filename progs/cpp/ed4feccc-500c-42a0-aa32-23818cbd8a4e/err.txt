@@ -1,0 +1,18 @@
+progs/cpp/ed4feccc-500c-42a0-aa32-23818cbd8a4e/prog.cpp:24:26: warning: character constant too long for its type [enabled by default]
+     for vertice in graph['vertices']:
+                          ^
+progs/cpp/ed4feccc-500c-42a0-aa32-23818cbd8a4e/prog.cpp:28:24: warning: character constant too long for its type [enabled by default]
+     edges = list(graph['edges'])
+                        ^
+progs/cpp/ed4feccc-500c-42a0-aa32-23818cbd8a4e/prog.cpp:38:9: warning: character constant too long for its type [enabled by default]
+         'vertices': ['A', 'B', 'C', 'D', 'E', 'F'],
+         ^
+progs/cpp/ed4feccc-500c-42a0-aa32-23818cbd8a4e/prog.cpp:39:9: warning: character constant too long for its type [enabled by default]
+         'edges': set([
+         ^
+progs/cpp/ed4feccc-500c-42a0-aa32-23818cbd8a4e/prog.cpp:1:1: error: ‘parent’ does not name a type
+ parent = dict()
+ ^
+progs/cpp/ed4feccc-500c-42a0-aa32-23818cbd8a4e/prog.cpp:49:1: error: ‘minimum_spanning_tree’ does not name a type
+ minimum_spanning_tree = set([
+ ^

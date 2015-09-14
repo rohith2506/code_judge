@@ -1,0 +1,4 @@
+progs/c/c7fc68c0-87a9-4023-9936-588d36d3d278/prog.c:1:20: fatal error: iostream: No such file or directory
+ #include <iostream>
+                    ^
+compilation terminated.

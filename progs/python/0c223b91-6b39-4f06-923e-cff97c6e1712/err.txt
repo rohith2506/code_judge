@@ -1,0 +1,17 @@
+Traceback (most recent call last):
+  File "./progs/python/0c223b91-6b39-4f06-923e-cff97c6e1712/prog.py", line 10, in <module>
+    execute_from_command_line(sys.argv)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 338, in execute_from_command_line
+    utility.execute()
+  File "/usr/local/lib/python2.7/dist-packages/django/core/management/__init__.py", line 303, in execute
+    settings.INSTALLED_APPS
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/__init__.py", line 48, in __getattr__
+    self._setup(name)
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/__init__.py", line 44, in _setup
+    self._wrapped = Settings(settings_module)
+  File "/usr/local/lib/python2.7/dist-packages/django/conf/__init__.py", line 92, in __init__
+    mod = importlib.import_module(self.SETTINGS_MODULE)
+  File "/usr/lib/python2.7/importlib/__init__.py", line 37, in import_module
+    __import__(name)
+ImportError: No module named hackathon.settings
+EXIT Program did not return 0

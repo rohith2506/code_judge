@@ -1,37 +1,74 @@
 <html>
 <title> Online Judge </title>
 <head>
-    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='bootstrap.css') }}">
+    <link rel="stylesheet" type="text/css" href="../static/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="../static/codemirror/doc/docs.css">
+    <link rel="stylesheet" type="text/css" href="../static/codemirror/lib/codemirror.css">
+    <link rel="stylesheet" type="text/css" href="../static/codemirror/addon/hint/show-hint.css">
+    <script type="text/javascript" src="../static/codemirror/lib/codemirror.js"></script>
+    <script type="text/javascript" src="../static/codemirror/mode/meta.js"></script>
+    <script type="text/javascript" src="../static/codemirror/addon/mode/loadmode.js"></script>
+    <script type="text/javascript" src="../static/codemirror/mode/python/python.js"></script>
+    <script type="text/javascript" src="../static/codemirror/mode/clike/clike.js"></script>
+    <style type="text/css">
+        .CodeMirror {
+            border: 1px solid grey;
+        }
+    </style>
 </head>
+
 <body>
 <form action= {{ url_for('send_data') }} method="POST">
-    <h2 class="dark-grey" style="text-align: center;"> Online Code Judge </h2>
-    <div class="col-md-2">
-        <select name="prog_lang" class="form-control">
+    <h1 class="dark-grey" style="padding-left: 12em;"> Online Code Judge </h1>
+    <div class="col-md-2" style="padding-left:2.25em;">
+        <select name="prog_lang" id="prog_lang" class="form-control" onchange="update();">
             <option value="cpp"> cpp </option>
             <option value="c"> c </option>
             <option value="python"> python </option>
         </select>
     </div>
+    <br></br>
+    
     <div class="col-md-12">
         <div class="form-group col-lg-6">
-            <label>Code</label>
-                <textarea rows="10" cols="100" name="code" class="form-control">
-                </textarea>
+            <label> Code </label>
+            <textarea id="code" name="code" rows="50" cols="50"></textarea>
         </div>
     </div>
+
     <div class="col-md-12">
-        <div class="form-group col-lg-6">
+        <div class="form-group col-lg-6" style="display:block;">
             <label>Input</label>
-                <textarea rows="5" cols="100" name="prog_input" class="form-control">
-                </textarea>
+                <textarea rows="5" cols="83" name="prog_input" id="prog_input"></textarea>
         </div>
     </div>
+
     <div class="col-md-7">
-        <div class="form-group col-lg-6">
-            <input type="submit" name="submit" class="btn btn-primary">
+        <div class="form-group col-lg-6" style="padding-left:39em;">
+            <input type="submit" name="submit" class="btn btn-primary" value="submit">
         </div>
     </div>
 </form>
+
+<script>
+    var editor = CodeMirror.fromTextArea(document.getElementById("code"), {
+      mode: 'text/x-c++src',
+      lineNumbers: true
+    });
+      
+    function update() {
+        var e = document.getElementById("prog_lang");
+        var prog_lang = e.options[e.selectedIndex].value;
+        if(prog_lang == "python") {
+            editor.setOption("mode", "python");
+        }
+        else if(prog_lang == "c") {
+            editor.setOption("mode", "text/x-csrc");
+        }
+        else {
+            editor.setOption("mode", "text/x-c++src");
+        }
+    }
+</script>
 </body>
 </html>

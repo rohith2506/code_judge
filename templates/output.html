@@ -4,7 +4,11 @@
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='bootstrap.css') }}">
 </head>
 {% block body %}
-    <h3 class="dark-grey" style="text-align: left;"> output </h3>
-    <pre>{{ result }}</pre>
+<div class="col-md-12">
+	<div class="form-group col-lg-6" style="display:block;">
+        <label>Output</label>
+            <pre rows="5" cols="83">{{ result }}</pre>
+    </div>
+</div>
 {% endblock %}
 </html>

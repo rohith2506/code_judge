@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "./progs/python/562400f8-64e3-4002-9442-55e95b717846/prog.py", line 5, in <module>
+    print n2
+NameError: name 'n2' is not defined
+EXIT Program did not return 0

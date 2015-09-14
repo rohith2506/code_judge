@@ -1,0 +1,2003 @@
+Traceback (most recent call last):
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 7, in <module>
+    print fib(n)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+  File "./progs/python/86d8fa71-9106-4bd1-a99c-c50549c62897/prog.py", line 4, in fib
+    else: return fib(n-1) + fib(n-2)
+RuntimeError: maximum recursion depth exceeded
+EXIT Program did not return 0
