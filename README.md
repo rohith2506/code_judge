@@ -1,6 +1,6 @@
 <h3> Welcome to Code Judge </h3> 
 
-<h4> Description >/h4>
+<h4> Description </h4>
 
 <p>This is simple online code judge which compiles and runs your code. As of now, it supports python, c and c++. 
 Basically it takes your code and compiles and runs it in sandbox mode and provides you with appropriate limits.
